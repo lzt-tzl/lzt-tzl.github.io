@@ -1,0 +1,68 @@
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Zhaotan Lin - Homepage}
+
+= Zhaotan Lin
+
+*Electronic Science and Technology*  
+
+[https://www.zju.edu.cn/english/ Zhejiang University] \n
+*Email*: [lzt_tzl@outlook.com lzt_tzl@outlook.com] \n
+*CV*: [Zhaotan_Lin_CV.pdf Curriculum Vitae] \n
+
+
+== Biography
+
+I studied Electronic Science and Technology at [https://www.zju.edu.cn/english/ Zhejiang University] from September 2021 to June 2025, with a GPA of 91.69 out of 100 (3.98 out of 4.0) and rank 3 out of 91.
+My interests include embedded systems, FPGA and reconfigurable computing, optical integrated sensing and communication, and intelligent hardware-software systems.
+
+
+== Education
+
+- [https://www.zju.edu.cn/english/ Zhejiang University], Electronic Science and Technology, Sep. 2021 -- Jun. 2025
+- GPA: 91.69 out of 100 (3.98 out of 4.0), Rank: 3 out of 91
+
+
+== Research Experience
+
+- *Technology for Treatment Based on Vagus Nerve Stimulation*, Zhejiang Qizhen Medical & Health Technology Co., Ltd., Mar. 2023 -- Jun. 2024
+  As a hardware technician, I developed upper-computer software, iterated circuit designs, implemented programs for ESP32 and STM32 microcontrollers, and completed the controller design for high-precision stimulation.
+  I also collaborated with Zhejiang University School of Medicine on several small-animal experiments. This work resulted in one patent and one conference poster.
+
+- *Applications in Smart Grid Networking Based on Reconfigurable Devices Like FPGA*, Project Leader, Apr. 2024 -- Aug. 2024
+  I worked on functional implementation and performance testing for the AMD Versal ACAP NoC (Network on Chip), exploring high-throughput interconnect structures for IoT-oriented smart-grid networking.
+
+
+== Project Experience
+
+- *Intelligent Agricultural Robot*, Hardware and Software Design, Feb. 2024 -- May 2024
+  I implemented embedded functions on STM32 microcontrollers and integrated information from RGB cameras and ultrasonic sensors for object detection and recognition.
+  The project supported functions including Bluetooth control, radar ranging, and infrared obstacle avoidance, and later received awards in related competitions.
+
+- *X-FOCUS: A Desktop Learning Assistant Based on Nano33*, Hardware and Software Design, Sep. 2023 -- Dec. 2023
+  I developed deep-learning and image-recognition functions on the Nano33 platform and contributed to Windows-based GUI development using Vue and Python for data interaction and personalized learning reports.
+
+
+== Publications
+
+- Ziming Ye, Lihang Liu, *Zhaotan Lin*, Longbiao Liu, Zonghao Liu, H. Y. Fu,
+  "[https://www.sciencedirect.com/science/article/abs/pii/S0030399226003129 Single-Source optical integrated sensing and communication (O-ISAC) with sequential target recognition]",
+  Optics and Laser Technology, vol. 198, 114961, 2026.
+
+
+== Selected Honors
+
+- First Prize, 6th National Intelligent Robot Creative Design Competition
+- First Prize, 8th National Biomedical Engineering Innovation Design Competition
+- Zhejiang Provincial Government Scholarship
+- First-Class Scholarship of Zhejiang University
+- Dahua Excellence Scholarship
+- Yongping Scholarship
+- Outstanding Youth League Member of Zhejiang University
+
+
+== International Exchange
+
+- Tokyo Institute of Technology, computer architecture and VLSI, Aug. 2024 -- Sep. 2024
+  I implemented new functions on an existing microprocessor with a specific instruction set and validated the design on FPGA, including multi-processor communication and system integration.
