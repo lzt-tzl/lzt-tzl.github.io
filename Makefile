@@ -1,6 +1,5 @@
 all:
-	./jemdoc  -o ./ index.jemdoc
+	python3 ./jemdoc -o ./ index.jemdoc
 
 clean:
 	rm ./*.html
-
